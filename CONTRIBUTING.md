@@ -8,7 +8,7 @@ This is a list of **uncommon and free resources** for visual designers, graphic 
 
 ## Getting Started
 
-- Fork this Repository [**here**](https://github.com/frankiefab100/Uncommon-Visual-Design-Resources/resources/fork)
+- Fork this Repository [**here**](https://github.com/frankiefab100/Uncommon-Visual-Design-Resources/fork)
 
 - Clone the forked Repository
 
